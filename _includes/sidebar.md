@@ -1,5 +1,5 @@
 ## 📚 Mục lục
 
-- [Trang chính](/index.md)
-- [Git Guide](/git-guide.md)
-- [GitHub Pages](/github-pages.md)
+- [Trang chính](readme.md)
+- [Hướng dẫn Git](gitCredential.md)
+- [Hướng dẫn GitHub Pages](github-pages.md)
